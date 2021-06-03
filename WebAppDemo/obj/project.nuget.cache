@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "623TN16MLsXzQ8R5VBDdjCd8MJRNYchFk+DjU78o2+7+SI94I7OJ+OVJJ/ZO1iBg3N2t9VvI1hCYsXdV6qi6Bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\Visual Studio 2019\\Projects\\WebAppDemo\\WebAppDemo\\WebAppDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
